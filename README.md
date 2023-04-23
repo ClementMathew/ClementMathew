@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Self-taught Creative Developer and Problem Solver, who is extremely enthusiastic about Web and App dev. I am also a Passionate Volunteer at different Non-Profit Organizations.
+Self-taught Creative Developer and Problem Solver, who is extremely enthusiastic about Web and App dev.
 
 
 # 💻 Tech Stack:
