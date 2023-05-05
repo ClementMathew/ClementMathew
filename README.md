@@ -1,9 +1,9 @@
 
 # 💫 About Me:
-Self-taught Creative Developer and Problem Solver, who is extremely enthusiastic about Web and App dev
+Self-taught Creative Developer and Problem Solver, who is extremely enthusiastic about Web and App dev.
 
 
-## 🌐 Socials:
+## 🌍 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__clement.m__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/clement-mathew) 
 
 # 💻 Tech Stack:
@@ -15,5 +15,3 @@ Self-taught Creative Developer and Problem Solver, who is extremely enthusiastic
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ClementMathew&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
