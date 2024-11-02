@@ -1,6 +1,6 @@
 
 
-# 💫 About Me:
+## 💫 About Me:
 Self-taught Creative Developer and Problem Solver, who is extremely enthusiastic about Web and Application dev.
 
 ## 🌐 Socials:
